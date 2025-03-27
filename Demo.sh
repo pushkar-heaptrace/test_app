@@ -3,3 +3,6 @@
 echo "Hello, I am Pushkar..!"
 echo "I am 23 years old..!"
 echo "I am here to Complete my Git Assignment..!"
+echo "New feature added with branches."
+echo "Merging branches ."
+echo "Let's push this to a remote repository."
